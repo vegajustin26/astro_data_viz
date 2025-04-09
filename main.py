@@ -5,7 +5,7 @@ import streamlit.components.v1 as components
 
 st.set_page_config(page_title="My fav data visualizations!", page_icon="🌌", layout="centered")
 
-st.markdown("<h1 style='text-align: center;'>🌌 My Favorite Data Visualizations</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>🌌 My Fav Data Visualizations</h1>", unsafe_allow_html=True)
 st.markdown("###")
 
 def load_image(image_file):
