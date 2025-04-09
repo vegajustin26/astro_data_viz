@@ -21,7 +21,7 @@ angelina = load_image("angelina.gif")
 st.markdown(
     f'<img src="data:image/gif;base64,{M87}" alt="M87 gif">',
     unsafe_allow_html=True,)
-text = """*A movie of a black hole, simulated from a realistic observation of M87 at 230 GHz. We are seeing the shadow of the black hole as illuminated by the light behind it. On the left is a realistic simulation of the black hole as viewed with "perfect resolution". On the right is a reconstruction of what you would see from data collected by a configuration of the next-generation Event Horizon Telescope. As seen in [this paper](https://www.mdpi.com/2075-4434/11/1/12).*"""
+text = """*A movie of a black hole, simulated from a realistic observation of M87 at 230 GHz. We are seeing the shadow of the black hole as illuminated by the light behind it. On the left is a realistic simulation of the black hole as viewed with "perfect resolution". On the right is a reconstruction of what you would see from data collected by a configuration of the next-generation Event Horizon Telescope (as seen in [this paper](https://www.mdpi.com/2075-4434/11/1/12)).*"""
 st.markdown(text)
 
 st.write("#")
