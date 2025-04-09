@@ -34,7 +34,7 @@ with c2:
 
 text1 = """
                 <div style="text-align: center">
-                <i>An animation of asteroid 64 Angelina eclipsing star TIC 398572494, as captured by the Transiting Exoplanet Survey Satellite. Made possible by <a href="https://github.com/ben-cassese/jorbit">jorbit</a> [paper in prep].</i>
+                <i>An animation of asteroid 64 Angelina "photobombing" star TIC 398572494, as captured by the Transiting Exoplanet Survey Satellite. Made possible by <a href="https://github.com/ben-cassese/jorbit">jorbit</a> [paper in prep].</i>
                 </div> 
                 """
 
